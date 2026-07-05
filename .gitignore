@@ -1,0 +1,12 @@
+build/
+*.user
+*.suo
+*.log
+*.obj
+*.pdb
+*.ilk
+*.exe
+host_stdout.txt
+host_stderr.txt
+host_ffmpeg_stderr.txt
+viewer_ffmpeg_stderr.txt
